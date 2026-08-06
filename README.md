@@ -12,5 +12,5 @@ Documentación de arquitectura del Sistema ERP, desarrollada en el Taller de Arq
 - [Diagramas](./docs/images)
 
 ## Otros entregables
-- [Product Backlog en Notion](enlace-a-tu-notion)
+- [Product Backlog en Notion](https://www.notion.so/TALLER-2-Proyecto-ERP-Grupo-X-3b20767346aa809bb53afc4b763e29cc?source=copy_link)
 - [Documento del taller (PDF)](./TALLER%202.pdf)
